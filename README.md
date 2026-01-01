@@ -13,9 +13,6 @@
 - :email: Aquí puedes **contactarme** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=valensene&amp;color=EA4335&amp;style=flat-square)](mailto:valensenefacultad@gmail.com)
 - :nerd_face: `"Código, café y creatividad"`
 
-<br>
-<br>
-<br>
 <br><br><br>
 
 
